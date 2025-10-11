@@ -1,2 +1,2 @@
-# Hackerrank_code_DSA
-Hackerrank DSA problem solving
+#Hackerrank problem solving of DSA 
+
